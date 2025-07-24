@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Sandra!
 
-<!--
-**Sandra83-dev/Sandra83-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning web development with the [Scrimba Fullstack Developer Path](https://scrimba.com/learn/frontend).
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🎁 [Birthday Gift Website](https://birthdaygift-s.netlify.app/)
+- 💼 Portfolio (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/sandrabentivegna/)
+- GitHub: @Sandra83-dev
+
+Thanks for stopping by! 🌟
